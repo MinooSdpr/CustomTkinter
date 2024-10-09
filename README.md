@@ -1,0 +1,18 @@
+This repository containing a comprehensive tutorial on using CustomTkinter, a powerful and modern Python library that enhances your Tkinter user interface development. 
+- Introduction to CustomTkinter:
+  - Installation and basic setup
+  - Key concepts and features
+- Customizing Themes:
+  - Changing default colors and styles
+  - Creating custom themes
+- Working with Widgets:
+  - Common widgets (buttons, labels, entries, etc.)
+  - Advanced widgets (progressbar, slider, etc.)
+- Creating Layouts:
+  - Using grid and pack layout managers
+  - Creating complex user interfaces
+- Advanced Concepts:
+  - Animations and transitions
+  - Customizing events and behavior
+- Example Applications:
+  - Sample applications demonstrating practical use cases
